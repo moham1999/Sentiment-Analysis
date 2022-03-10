@@ -255,5 +255,6 @@ $RECYCLE.BIN/
 # Custom
 advertools*
 beautifulsoup*
+IMDB-reduced-encoded.csv
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks,git,windows,linux
