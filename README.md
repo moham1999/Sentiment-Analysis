@@ -5,7 +5,7 @@
 - Split into words with `TreebankWordTokenizer`
 - Removed words containing non-ascii symbols
 - Removed non-word objects
-- Removed contractions (ex.: **`'ll`** ` [they'll]`, **`'ve`** ` [you've]`, **`'m`** ` [I'm]`)
+- Removed contractions (ex.: **`'ll`** [they'll], **`'ve`** [you've], **`'m`** [I'm])
 - Transformed words to normal forms with `SnowballStemmer`
 - Removed stopwords with english `nltk.corpus` (excluding _not_)
 - Removed words that appear only once in the database (likely typos)
