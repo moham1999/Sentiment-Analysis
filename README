@@ -1,0 +1,5 @@
+data preprocessing:
+
+pretty much what you did Mo
+- literally took your code
+- removed stop words using nltk's 'english' built in (u can see that in the vectorizing part)
